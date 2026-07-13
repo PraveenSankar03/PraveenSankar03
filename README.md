@@ -1,6 +1,6 @@
 ### Hi, I'm Praveen 👋
 
-Full-stack developer specializing in **Python, Django REST Framework, React, and PostgreSQL**, with a focus on shipping AI-integrated web apps. Background in Biomedical Engineering, currently sharpening full-stack skills at Besant Technologies, Chennai.
+Full-stack developer specializing in Python, Django REST Framework, React, and PostgreSQL, with a focus on shipping AI-integrated web apps. Background in Biomedical Engineering, transitioned into full-stack development through self-driven learning.
 
 I'm actively looking for **Full Stack / SDE / Django / React Developer** roles in Chennai.
 
@@ -8,7 +8,7 @@ I'm actively looking for **Full Stack / SDE / Django / React Developer** roles i
 
 ### 🚀 Featured Projects
 
-**[Local LLM Assistant](https://github.com/PraveenSankar03/local-llm-assistant)**
+**[Privacy First Local LLM Assistant](https://github.com/PraveenSankar03/local-llm-assistant)**
 Full-stack AI assistant (React + Django) powered by a locally-hosted LLM via Ollama (Qwen 4B) — multi-session chat, persistent memory, ~$0 API cost, sub-800ms latency, fully offline-capable.
 
 **[AI Code Explainer & Debugger](https://github.com/PraveenSankar03/AI-code-explainer-debugger)**
