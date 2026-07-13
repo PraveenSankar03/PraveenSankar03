@@ -9,13 +9,13 @@ I'm actively looking for **Full Stack / SDE / Django / React Developer** roles i
 ### Featured Projects
 
 **[Privacy First Local LLM Assistant](https://github.com/PraveenSankar03/local-llm-assistant)**
-Full-stack AI assistant (React + Django) powered by a locally-hosted LLM via Ollama (Qwen 4B) — multi-session chat, persistent memory, ~$0 API cost, sub-800ms latency, fully offline-capable.
+Full-stack AI assistant (React + Django) powered by a locally-hosted LLM via Ollama (Qwen 4B) - multi-session chat, persistent memory, ~$0 API cost, sub-8000ms latency, fully offline-capable.
 
 **[AI Code Explainer & Debugger](https://github.com/PraveenSankar03/AI-code-explainer-debugger)**
-AI-powered code explainer & debugger built with Django, React, and Gemini 2.5 Flash — tri-mode Generate / Explain / Debug workflow.
+AI-powered code explainer & debugger built with Django, React, and Gemini 2.5 Flash - tri-mode Generate / Explain / Debug workflow.
 
 **[Django Social Media Platform](https://github.com/PraveenSankar03/django-social-media)**
-Lightweight social microblogging app in Django — auth, following, post creation, PostgreSQL-backed.
+Lightweight social microblogging app in Django - auth, following, post creation, PostgreSQL-backed.
 
 **[Movie Browser (React)](https://github.com/PraveenSankar03/Movie-Browser-using-React.js)**
 Movie discovery app using the TMDB API, React Router, and Context API for wishlist/state management.
