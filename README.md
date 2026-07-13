@@ -6,7 +6,7 @@ I'm actively looking for **Full Stack / SDE / Django / React Developer** roles i
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **[Privacy First Local LLM Assistant](https://github.com/PraveenSankar03/local-llm-assistant)**
 Full-stack AI assistant (React + Django) powered by a locally-hosted LLM via Ollama (Qwen 4B) — multi-session chat, persistent memory, ~$0 API cost, sub-800ms latency, fully offline-capable.
@@ -22,13 +22,13 @@ Movie discovery app using the TMDB API, React Router, and Context API for wishli
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 `Python` · `Django` · `Django REST Framework` · `React` · `JavaScript` · `PostgreSQL` · `MySQL` · `Gemini API` · `Ollama` · `Git`
 
 ---
 
-### 📫 Reach me
+### Reach me
 
 - Portfolio: [portfolio-praveen03.vercel.app](https://portfolio-praveen03.vercel.app/)
 - LinkedIn: [linkedin.com/in/praveen-kumar-40109b366](https://www.linkedin.com/in/praveen-kumar-40109b366/)
