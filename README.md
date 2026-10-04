@@ -1,7 +1,6 @@
 ### Hi, I'm Praveen 👋
 
-Full-stack developer specializing in Python, Django REST Framework, React, and PostgreSQL, with a focus on shipping AI-integrated web apps. Background in Biomedical Engineering, transitioned into full-stack development through self-driven learning.
-I'm actively looking for **Full Stack / SDE / Django / React Developer** roles.
+Full-stack developer specializing in Python, Django REST Framework, React, and PostgreSQL, with a focus on shipping AI-integrated web apps. Background in Biomedical Engineering, transitioned into full-stack development through self-driven learning. Currently working as a Software Engineer at Foyer Technology Pvt Ltd, Chennai.
 
 ---
 
