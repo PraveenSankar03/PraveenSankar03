@@ -28,4 +28,4 @@ Movie discovery app using the TMDB API, React Router, and Context API for wishli
 - Portfolio: [portfolio-praveen03.vercel.app](https://portfolio-praveen03.vercel.app/)
 - LinkedIn: [https://www.linkedin.com/in/praveen-kumar-s-40109b366/](https://www.linkedin.com/in/praveen-kumar-s-40109b366/)
 - Email: [praveensankar3333@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=praveensankar3333@gmail.com)
-- Open to full-stack developer roles — feel free to connect.
+- Open to full-stack developer roles - feel free to connect.
